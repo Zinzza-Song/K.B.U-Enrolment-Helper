@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>컴퓨터소프트웨어학과</item>
+        <item>사회복지과</item>
+        <item>영유아보육학과</item>
+        <item>간호과</item>
+        <item>성서학과</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>1학년</item>
+        <item>2학년</item>
+        <item>3학년</item>
+        <item>4학년</item>
+    </string-array>
+
+    <string-array name="year2">
+        <item>1학년</item>
+        <item>2학년</item>
+        <item>3학년</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+
+    <string-array name="graduateArea">
+        <item>일반대학원</item>
+    </string-array>
+
+    <string-array name="universityArea">
+        <item>교양및기타</item>
+        <item>전공</item>
+    </string-array>
+
+    <string-array name="universityCourse">
+        <item>컴퓨터소프트웨어학과</item>
+        <item>사회복지과</item>
+        <item>영유아보육학과</item>
+        <item>간호과</item>
+        <item>성서학과</item>
+    </string-array>
+
+    <string-array name="graduateCourse">
+        <item>사회복지학과</item>
+        <item>성서학과</item>
+    </string-array>
+
+    <string-array name="basic">
+        <item>세계시리즈</item>
+        <item>필수교양</item>
+        <item>일반교양</item>
+        <item>영어</item>
+    </string-array>
+
+    <string-array name="rank">
+        <item>전체에서</item>
+        <item>우리과에서</item>
+        <item>남자 선호도</item>
+        <item>여자 선호도</item>
+        <item>전공 인기도</item>
+    </string-array>
+
+</resources>
